@@ -1,0 +1,57 @@
+header a {
+    color: rgb(1, 9, 0);
+    padding: 10px;
+    text-decoration: none;
+    
+}
+.content{
+    margin-top: 20px;
+    margin: 20px;
+    display: flex;
+    gap: 10px;
+    position: relative;
+    left: 75px;
+
+
+
+}
+
+header{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.log-buttons{
+    height: 10px;
+    position: relative;
+    right: -40px;
+    top: 30px;}
+
+
+    
+.button button{
+    color: aliceblue;
+    background-color: black;
+    margin-bottom: 7px;
+    border-radius: 5px;
+    
+}
+.button{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.imges{
+    display: flex;
+    justify-content: space-around;
+
+}
+.nani{
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+/* .heart{
+    color: red;
+} */
+
